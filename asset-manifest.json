@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./ChaBebe-Site/static/css/main.db9d6378.chunk.css",
-    "main.js": "./ChaBebe-Site/static/js/main.240eca80.chunk.js",
-    "main.js.map": "./ChaBebe-Site/static/js/main.240eca80.chunk.js.map",
-    "runtime-main.js": "./ChaBebe-Site/static/js/runtime-main.52566560.js",
-    "runtime-main.js.map": "./ChaBebe-Site/static/js/runtime-main.52566560.js.map",
-    "static/js/2.f20f27d0.chunk.js": "./ChaBebe-Site/static/js/2.f20f27d0.chunk.js",
-    "static/js/2.f20f27d0.chunk.js.map": "./ChaBebe-Site/static/js/2.f20f27d0.chunk.js.map",
-    "index.html": "./ChaBebe-Site/index.html",
-    "static/css/main.db9d6378.chunk.css.map": "./ChaBebe-Site/static/css/main.db9d6378.chunk.css.map",
-    "static/js/2.f20f27d0.chunk.js.LICENSE.txt": "./ChaBebe-Site/static/js/2.f20f27d0.chunk.js.LICENSE.txt",
-    "static/media/Tema.css": "./ChaBebe-Site/static/media/fundo-raposa.2ccba57e.jpg"
+    "main.css": "./static/css/main.db9d6378.chunk.css",
+    "main.js": "./static/js/main.7c3708bc.chunk.js",
+    "main.js.map": "./static/js/main.7c3708bc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6d56051b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6d56051b.js.map",
+    "static/js/2.f20f27d0.chunk.js": "./static/js/2.f20f27d0.chunk.js",
+    "static/js/2.f20f27d0.chunk.js.map": "./static/js/2.f20f27d0.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.db9d6378.chunk.css.map": "./static/css/main.db9d6378.chunk.css.map",
+    "static/js/2.f20f27d0.chunk.js.LICENSE.txt": "./static/js/2.f20f27d0.chunk.js.LICENSE.txt",
+    "static/media/Tema.css": "./static/media/fundo-raposa.2ccba57e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.52566560.js",
+    "static/js/runtime-main.6d56051b.js",
     "static/js/2.f20f27d0.chunk.js",
     "static/css/main.db9d6378.chunk.css",
-    "static/js/main.240eca80.chunk.js"
+    "static/js/main.7c3708bc.chunk.js"
   ]
 }
