@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.0298bc2e.chunk.css",
-    "main.js": "./static/js/main.351e81d5.chunk.js",
-    "main.js.map": "./static/js/main.351e81d5.chunk.js.map",
+    "main.css": "./static/css/main.4968b378.chunk.css",
+    "main.js": "./static/js/main.8a0cb4d1.chunk.js",
+    "main.js.map": "./static/js/main.8a0cb4d1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.6d56051b.js",
     "runtime-main.js.map": "./static/js/runtime-main.6d56051b.js.map",
-    "static/js/2.0c04272a.chunk.js": "./static/js/2.0c04272a.chunk.js",
-    "static/js/2.0c04272a.chunk.js.map": "./static/js/2.0c04272a.chunk.js.map",
+    "static/js/2.1d48363b.chunk.js": "./static/js/2.1d48363b.chunk.js",
+    "static/js/2.1d48363b.chunk.js.map": "./static/js/2.1d48363b.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.0298bc2e.chunk.css.map": "./static/css/main.0298bc2e.chunk.css.map",
-    "static/js/2.0c04272a.chunk.js.LICENSE.txt": "./static/js/2.0c04272a.chunk.js.LICENSE.txt",
+    "static/css/main.4968b378.chunk.css.map": "./static/css/main.4968b378.chunk.css.map",
+    "static/js/2.1d48363b.chunk.js.LICENSE.txt": "./static/js/2.1d48363b.chunk.js.LICENSE.txt",
     "static/media/Tema.css": "./static/media/fundo-raposa.2ccba57e.jpg",
     "static/media/Nome.css": "./static/media/fundo-raposa2.772cea55.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6d56051b.js",
-    "static/js/2.0c04272a.chunk.js",
-    "static/css/main.0298bc2e.chunk.css",
-    "static/js/main.351e81d5.chunk.js"
+    "static/js/2.1d48363b.chunk.js",
+    "static/css/main.4968b378.chunk.css",
+    "static/js/main.8a0cb4d1.chunk.js"
   ]
 }
